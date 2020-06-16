@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payments>
+  <payment id="2">
+    <cred_id>2</cred_id>
+    <overdue>234.45</overdue>
+  </payment>
+  <payment id="3">
+    <cred_id>3</cred_id>
+    <overdue>343</overdue>
+  </payment>
+  <payment id="5">
+    <cred_id>7</cred_id>
+    <overdue>23534</overdue>
+  </payment>
+  <payment id="7">
+    <cred_id>6</cred_id>
+    <overdue>23423</overdue>
+  </payment>
+</payments>
