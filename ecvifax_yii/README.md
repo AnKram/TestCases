@@ -27,3 +27,4 @@ D. Реализовать выдачу данных в формате json по 
 
 
 с API разобрался не до конца, работает по http://site/books и http://site/books/id
+dump базы в корне "for_yii.sql"
